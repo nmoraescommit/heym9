@@ -16,9 +16,3 @@
 hello <- function() {
   print("Hello, world!")
 }
-
-class <-function(){
-  print("Derry Girls is a class show.")
-}
-
-
