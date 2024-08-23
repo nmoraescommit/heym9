@@ -4,7 +4,7 @@
 #' @export
 #'
 #' @examples
-theme_eighties <- function(){
+theme_B2F <- function(){
   theme(title = element_text(size = 16, color = "purple"),
         plot.background = element_rect(fill = "black"),
         panel.background = element_rect(fill = "gray"),
